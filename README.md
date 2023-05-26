@@ -6,7 +6,7 @@ Le module utilise la librairie [CPY-CC1101](https://github.com/unixb0y/CPY-CC110
 
 Exemple d'utilisation avec un Raspberry Pico :
 
-```python=
+```python
 import time
 import board
 from circuitpython-nfs3200 import CC1101_NFS32002
