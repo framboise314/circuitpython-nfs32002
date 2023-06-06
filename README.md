@@ -2,7 +2,7 @@
 
 Réimplémentation pour CircuitPython du protocole NF S 32-002 utilisé par les balises sonores des feux piétons. Permet de détecter le signal d'une télécommande à partir d'un module radio CC1101.
 
-Le module utilise la librairie [CPY-CC1101](https://github.com/unixb0y/CPY-CC1101).
+Le module utilise la bibliothèque CircuitPython [CPY-CC1101](https://github.com/balises-ouistici/CPY-CC1101) (code original par [unixb0y](https://github.com/unixb0y/CPY-CC1101)).
 
 Exemple d'utilisation avec un Raspberry Pico :
 
