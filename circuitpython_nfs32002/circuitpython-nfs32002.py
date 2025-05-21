@@ -31,7 +31,7 @@ class CC1101_NFS32002:
         return self.radio.get_sample_rate()
 
     def get_syncword(self):
-        retrun self.syncword
+        return self.syncword
 
     def wait_for_data(self): 
         data = radio.receiveData(0x16)
